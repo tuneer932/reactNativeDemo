@@ -11,4 +11,5 @@ yarn install
 ```
 
 Create a firebase app and database with collection items.
+
 Add the google-services.json to android/app/ directory.
